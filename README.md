@@ -15,3 +15,4 @@ Architecture:
 •	Prices update every few seconds (via simulation or API).
 •	Server pushes changes to clients using WebSocket events.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2c3f0c6-0502-4b40-95f6-7b79c8b39cef" />
